@@ -56,4 +56,4 @@ def ej2_mas_larga(listaStr):
         
 
     print(palabra)
-ej2_mas_larga(["barcos","mujeres","Lineage2","koalas","pakistan","esternomascloideo","pene","hacha","moises"])
+ej2_mas_larga(["barcos","mujeres","Lineage2","koalas","pakistan","esternomascloideo","guacamolexD","hacha","moises"])
